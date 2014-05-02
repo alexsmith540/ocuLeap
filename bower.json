@@ -1,0 +1,31 @@
+{
+  "name": "ocuLeap",
+  "version": "0.0.1",
+  "authors": [
+    "Alex Smith <alexsmith_540@yahoo.com>"
+  ],
+  "description": "leap motion and oculus married together with threejs",
+  "main": "index.html",
+  "keywords": [
+    "three.js",
+    "oculus",
+    "leap",
+    "motion"
+  ],
+  "license": "MIT",
+  "homepage": "http://atpsmith.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "leapjs": "git://github.com/leapmotion/leapjs.git#~0.2.1",
+    "vr.js": "https://github.com/benvanik/vr.js.git",
+    "three.js": "https://github.com/mrdoob/three.js.git"
+  }
+}
