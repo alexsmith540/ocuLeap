@@ -1,0 +1,14 @@
+{
+  "name": "vr.js",
+  "homepage": "https://github.com/benvanik/vr.js",
+  "_release": "0ce3afefb3",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "0ce3afefb30e90626a95ea7957ea76f3f0799c41"
+  },
+  "_source": "https://github.com/benvanik/vr.js.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/benvanik/vr.js.git",
+  "_direct": true
+}
