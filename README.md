@@ -1,7 +1,8 @@
 
 Usage:
 
-Demo: ([link to gh pages])
+Demo: <a href="http://alexsmith540.github.io/ocuLeap/">http://alexsmith540.github.io/ocuLeap/</a>
+
 Use leap to fly. The bigger you open your hand, the faster you go / vice versa. Draw a circle to rotate the camera. Press 'r' to reset your relative home point.
 
 If you have an Oculus Rift (and the <a href="https://github.com/benvanik/vr.js/tree/master">vr.js plugin at github</a>), plug it in... I usually hold the oculus in 1 hand in front of me and pilot it with the other. You could do this much more elegant........
